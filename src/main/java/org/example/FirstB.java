@@ -2,8 +2,6 @@ package org.example;
 
 public class FirstB {
     public void firstBranch(){
-        System.out.println("First branch that I am working on it");
-        String name ="first Name";
-        System.out.println("name is : " + name);
+        System.out.println("FirstB should be added to master branch");
     }
 }
